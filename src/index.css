@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Georgia', 'Times New Roman', serif;
+  --font-sans: ui-sans-serif, system-ui, sans-serif;
+  --color-parchment: #faf8f5;
+  --color-ink: #1c1917;
+  --color-ink-muted: #57534e;
+  --color-accent: #92400e;
+  --color-accent-soft: #fef3c7;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-parchment);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100svh;
+}
