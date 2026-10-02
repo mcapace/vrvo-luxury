@@ -1,0 +1,114 @@
+Report name,Ad Manager Report
+Report type,Historical
+Report result ID,
+Report currency,USD
+Publisher network,M Shanken - DFP
+User,mcapace@mshanken.com
+Date/Time generated,"October 2, 2026 5:05:00 PM EDT"
+Date range,"Jul 10, 2026 - Aug 12, 2026"
+Time zone,America/New_York
+Filters,Line item = July 10 · WSC TLH Belicoso Banner A (Make-Good)
+
+Creative,Date,Ad server impressions,Ad server clicks,Ad server CTR,Ad server CPM and CPC revenue,Ad server average eCPM w/o CPD
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-10,1633,2,0.0012,16.33,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-11,3797,14,0.0037,37.97,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-12,2511,9,0.0036,25.11,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-13,2321,16,0.0069,23.21,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-14,1418,4,0.0028,14.18,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-15,1845,11,0.006,18.45,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-16,1125,6,0.0053,11.25,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-17,3637,26,0.0071,36.37,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-18,1251,8,0.0064,12.51,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-19,3739,27,0.0072,37.39,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-20,1708,10,0.0059,17.08,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-21,1035,4,0.0039,10.35,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-22,3137,7,0.0022,31.37,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-23,1651,6,0.0036,16.51,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-24,4085,31,0.0076,40.85,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-25,1058,4,0.0038,10.58,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-26,3193,17,0.0053,31.93,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-27,2412,4,0.0017,24.12,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-28,2371,16,0.0067,23.71,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-29,1206,2,0.0017,12.06,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-30,3021,21,0.007,30.21,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-07-31,2133,4,0.0019,21.33,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-01,2741,0,0.0,27.41,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-02,2609,0,0.0,26.09,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-03,3401,0,0.0,34.01,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-04,2731,0,0.0,27.31,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-05,608,0,0.0,6.08,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-06,1326,0,0.0,13.26,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-07,1006,0,0.0,10.06,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-08,2367,0,0.0,23.67,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-09,1896,0,0.0,18.96,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-10,3439,0,0.0,34.39,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-11,3278,0,0.0,32.78,10.00
+wsc_tlh_belicoso_banner_a_300x250_html5,2026-08-12,2421,0,0.0,24.21,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-10,658,0,0.0,6.58,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-11,1519,6,0.0039,15.19,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-12,1004,4,0.004,10.04,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-13,929,6,0.0065,9.29,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-14,567,2,0.0035,5.67,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-15,738,4,0.0054,7.38,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-16,450,2,0.0044,4.50,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-17,1455,11,0.0076,14.55,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-18,500,3,0.006,5.00,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-19,1495,11,0.0074,14.95,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-20,683,4,0.0059,6.83,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-21,414,1,0.0024,4.14,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-22,1255,3,0.0024,12.55,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-23,660,3,0.0045,6.60,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-24,1634,12,0.0073,16.34,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-25,423,2,0.0047,4.23,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-26,1277,7,0.0055,12.77,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-27,965,1,0.001,9.65,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-28,948,7,0.0074,9.48,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-29,482,1,0.0021,4.82,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-30,1209,9,0.0074,12.09,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-07-31,853,1,0.0012,8.53,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-01,1096,0,0.0,10.96,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-02,1044,0,0.0,10.44,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-03,1360,0,0.0,13.60,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-04,1092,0,0.0,10.92,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-05,243,0,0.0,2.43,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-06,530,0,0.0,5.30,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-07,402,0,0.0,4.02,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-08,947,0,0.0,9.47,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-09,758,0,0.0,7.58,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-10,1375,0,0.0,13.75,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-11,1311,0,0.0,13.11,10.00
+wsc_tlh_belicoso_banner_a_300x600_html5,2026-08-12,968,0,0.0,9.68,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-10,985,4,0.0041,9.85,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-11,2278,9,0.004,22.78,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-12,1506,5,0.0033,15.06,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-13,1393,9,0.0065,13.93,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-14,850,2,0.0024,8.50,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-15,1107,6,0.0054,11.07,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-16,675,3,0.0044,6.75,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-17,2182,16,0.0073,21.82,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-18,750,4,0.0053,7.50,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-19,2243,16,0.0071,22.43,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-20,1024,6,0.0059,10.24,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-21,621,2,0.0032,6.21,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-22,1882,4,0.0021,18.82,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-23,990,4,0.004,9.90,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-24,2451,19,0.0078,24.51,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-25,635,3,0.0047,6.35,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-26,1915,10,0.0052,19.15,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-27,1447,2,0.0014,14.47,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-28,1422,10,0.007,14.22,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-29,723,1,0.0014,7.23,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-30,1813,13,0.0072,18.13,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-07-31,1280,2,0.0016,12.80,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-01,1644,0,0.0,16.44,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-02,1566,0,0.0,15.66,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-03,2041,0,0.0,20.41,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-04,1639,0,0.0,16.39,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-05,364,0,0.0,3.64,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-06,795,0,0.0,7.95,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-07,604,0,0.0,6.04,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-08,1420,0,0.0,14.20,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-09,1138,0,0.0,11.38,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-10,2063,0,0.0,20.63,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-11,1967,0,0.0,19.67,10.00
+wsc_tlh_belicoso_banner_a_728x90_html5,2026-08-12,1453,0,0.0,14.53,10.00

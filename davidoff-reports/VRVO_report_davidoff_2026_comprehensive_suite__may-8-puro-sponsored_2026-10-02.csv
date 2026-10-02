@@ -1,0 +1,76 @@
+Report name,Ad Manager Report
+Report type,Historical
+Report result ID,
+Report currency,USD
+Publisher network,M Shanken - DFP
+User,mcapace@mshanken.com
+Date/Time generated,"October 2, 2026 5:05:00 PM EDT"
+Date range,"May 8, 2026 - Jun 8, 2026"
+Time zone,America/New_York
+Filters,Line item = May 8 · Sponsored Content (Puro Dominicano)
+
+Creative,Date,Ad server impressions,Ad server clicks,Ad server CTR,Ad server CPM and CPC revenue,Ad server average eCPM w/o CPD
+puro_dominicano_editorial,2026-05-08,588,9,0.0153,7.06,12.00
+puro_dominicano_editorial,2026-05-09,1379,19,0.0138,16.55,12.00
+puro_dominicano_editorial,2026-05-10,823,9,0.0109,9.88,12.00
+puro_dominicano_editorial,2026-05-11,1399,5,0.0036,16.79,12.00
+puro_dominicano_editorial,2026-05-12,984,17,0.0173,11.81,12.00
+puro_dominicano_editorial,2026-05-13,1242,12,0.0097,14.90,12.00
+puro_dominicano_editorial,2026-05-14,1257,19,0.0151,15.08,12.00
+puro_dominicano_editorial,2026-05-15,779,9,0.0116,9.35,12.00
+puro_dominicano_editorial,2026-05-16,1297,15,0.0116,15.56,12.00
+puro_dominicano_editorial,2026-05-17,1024,18,0.0176,12.29,12.00
+puro_dominicano_editorial,2026-05-18,1152,13,0.0113,13.82,12.00
+puro_dominicano_editorial,2026-05-19,1099,16,0.0146,13.19,12.00
+puro_dominicano_editorial,2026-05-20,963,3,0.0031,11.56,12.00
+puro_dominicano_editorial,2026-05-21,363,2,0.0055,4.36,12.00
+puro_dominicano_editorial,2026-05-22,2062,16,0.0078,24.74,12.00
+puro_dominicano_editorial,2026-05-23,1072,18,0.0168,12.86,12.00
+puro_dominicano_editorial,2026-05-24,1068,6,0.0056,12.82,12.00
+puro_dominicano_editorial,2026-05-25,563,8,0.0142,6.76,12.00
+puro_dominicano_editorial,2026-05-26,517,3,0.0058,6.20,12.00
+puro_dominicano_editorial,2026-05-27,503,6,0.0119,6.04,12.00
+puro_dominicano_editorial,2026-05-28,1045,14,0.0134,12.54,12.00
+puro_dominicano_editorial,2026-05-29,941,8,0.0085,11.29,12.00
+puro_dominicano_editorial,2026-05-30,675,11,0.0163,8.10,12.00
+puro_dominicano_editorial,2026-05-31,768,8,0.0104,9.22,12.00
+puro_dominicano_editorial,2026-06-01,2460,24,0.0098,29.52,12.00
+puro_dominicano_editorial,2026-06-02,521,3,0.0058,6.25,12.00
+puro_dominicano_editorial,2026-06-03,341,4,0.0117,4.09,12.00
+puro_dominicano_editorial,2026-06-04,1023,6,0.0059,12.28,12.00
+puro_dominicano_editorial,2026-06-05,701,8,0.0114,8.41,12.00
+puro_dominicano_editorial,2026-06-06,782,6,0.0077,9.38,12.00
+puro_dominicano_editorial,2026-06-07,617,5,0.0081,7.40,12.00
+puro_dominicano_editorial,2026-06-08,384,5,0.013,4.61,12.00
+puro_dominicano_native_card,2026-05-08,429,6,0.014,5.15,12.00
+puro_dominicano_native_card,2026-05-09,998,13,0.013,11.98,12.00
+puro_dominicano_native_card,2026-05-10,596,7,0.0117,7.15,12.00
+puro_dominicano_native_card,2026-05-11,1013,4,0.0039,12.16,12.00
+puro_dominicano_native_card,2026-05-12,712,13,0.0183,8.54,12.00
+puro_dominicano_native_card,2026-05-13,899,9,0.01,10.79,12.00
+puro_dominicano_native_card,2026-05-14,910,13,0.0143,10.92,12.00
+puro_dominicano_native_card,2026-05-15,564,6,0.0106,6.77,12.00
+puro_dominicano_native_card,2026-05-16,939,11,0.0117,11.27,12.00
+puro_dominicano_native_card,2026-05-17,742,13,0.0175,8.90,12.00
+puro_dominicano_native_card,2026-05-18,835,9,0.0108,10.02,12.00
+puro_dominicano_native_card,2026-05-19,796,11,0.0138,9.55,12.00
+puro_dominicano_native_card,2026-05-20,697,3,0.0043,8.36,12.00
+puro_dominicano_native_card,2026-05-21,263,1,0.0038,3.16,12.00
+puro_dominicano_native_card,2026-05-22,1493,11,0.0074,17.92,12.00
+puro_dominicano_native_card,2026-05-23,776,13,0.0168,9.31,12.00
+puro_dominicano_native_card,2026-05-24,774,5,0.0065,9.29,12.00
+puro_dominicano_native_card,2026-05-25,407,5,0.0123,4.88,12.00
+puro_dominicano_native_card,2026-05-26,374,3,0.008,4.49,12.00
+puro_dominicano_native_card,2026-05-27,365,4,0.011,4.38,12.00
+puro_dominicano_native_card,2026-05-28,756,11,0.0146,9.07,12.00
+puro_dominicano_native_card,2026-05-29,681,6,0.0088,8.17,12.00
+puro_dominicano_native_card,2026-05-30,489,8,0.0164,5.87,12.00
+puro_dominicano_native_card,2026-05-31,556,6,0.0108,6.67,12.00
+puro_dominicano_native_card,2026-06-01,1781,18,0.0101,21.37,12.00
+puro_dominicano_native_card,2026-06-02,378,2,0.0053,4.54,12.00
+puro_dominicano_native_card,2026-06-03,247,3,0.0121,2.96,12.00
+puro_dominicano_native_card,2026-06-04,740,4,0.0054,8.88,12.00
+puro_dominicano_native_card,2026-06-05,507,6,0.0118,6.08,12.00
+puro_dominicano_native_card,2026-06-06,567,5,0.0088,6.80,12.00
+puro_dominicano_native_card,2026-06-07,446,4,0.009,5.35,12.00
+puro_dominicano_native_card,2026-06-08,278,3,0.0108,3.34,12.00

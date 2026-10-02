@@ -1,0 +1,74 @@
+Report name,Ad Manager Report
+Report type,Historical
+Report result ID,
+Report currency,USD
+Publisher network,M Shanken - DFP
+User,mcapace@mshanken.com
+Date/Time generated,"October 2, 2026 5:05:00 PM EDT"
+Date range,"Apr 18, 2026 - May 18, 2026"
+Time zone,America/New_York
+Filters,Line item = Mid-April · High-Impact Pop-Ups (AVO & Puro)
+
+Creative,Date,Ad server impressions,Ad server clicks,Ad server CTR,Ad server CPM and CPC revenue,Ad server average eCPM w/o CPD
+high_impact_interstitial_popup,2026-04-18,7490,81,0.0108,119.84,16.00
+high_impact_interstitial_popup,2026-04-19,3754,27,0.0072,60.06,16.00
+high_impact_interstitial_popup,2026-04-20,4176,14,0.0034,66.82,16.00
+high_impact_interstitial_popup,2026-04-21,5218,38,0.0073,83.49,16.00
+high_impact_interstitial_popup,2026-04-22,8278,22,0.0027,132.45,16.00
+high_impact_interstitial_popup,2026-04-23,3310,34,0.0103,52.96,16.00
+high_impact_interstitial_popup,2026-04-24,7090,47,0.0066,113.44,16.00
+high_impact_interstitial_popup,2026-04-25,6078,37,0.0061,97.25,16.00
+high_impact_interstitial_popup,2026-04-26,7282,86,0.0118,116.51,16.00
+high_impact_interstitial_popup,2026-04-27,6446,53,0.0082,103.14,16.00
+high_impact_interstitial_popup,2026-04-28,6906,60,0.0087,110.50,16.00
+high_impact_interstitial_popup,2026-04-29,2759,33,0.012,44.14,16.00
+high_impact_interstitial_popup,2026-04-30,2707,23,0.0085,43.31,16.00
+high_impact_interstitial_popup,2026-05-01,7448,34,0.0046,119.17,16.00
+high_impact_interstitial_popup,2026-05-02,4579,57,0.0124,73.26,16.00
+high_impact_interstitial_popup,2026-05-03,2538,20,0.0079,40.61,16.00
+high_impact_interstitial_popup,2026-05-04,8393,47,0.0056,134.29,16.00
+high_impact_interstitial_popup,2026-05-05,8720,83,0.0095,139.52,16.00
+high_impact_interstitial_popup,2026-05-06,6769,50,0.0074,108.30,16.00
+high_impact_interstitial_popup,2026-05-07,5088,62,0.0122,81.41,16.00
+high_impact_interstitial_popup,2026-05-08,2263,9,0.004,36.21,16.00
+high_impact_interstitial_popup,2026-05-09,7099,16,0.0023,113.58,16.00
+high_impact_interstitial_popup,2026-05-10,5086,52,0.0102,81.38,16.00
+high_impact_interstitial_popup,2026-05-11,6136,46,0.0075,98.18,16.00
+high_impact_interstitial_popup,2026-05-12,4316,44,0.0102,69.06,16.00
+high_impact_interstitial_popup,2026-05-13,7619,73,0.0096,121.90,16.00
+high_impact_interstitial_popup,2026-05-14,3629,14,0.0039,58.06,16.00
+high_impact_interstitial_popup,2026-05-15,2588,12,0.0046,41.41,16.00
+high_impact_interstitial_popup,2026-05-16,9229,55,0.006,147.66,16.00
+high_impact_interstitial_popup,2026-05-17,2280,23,0.0101,36.48,16.00
+high_impact_interstitial_popup,2026-05-18,2719,25,0.0092,43.50,16.00
+mobile_overlay,2026-04-18,4035,39,0.0097,64.56,16.00
+mobile_overlay,2026-04-19,2021,15,0.0074,32.34,16.00
+mobile_overlay,2026-04-20,2249,7,0.0031,35.98,16.00
+mobile_overlay,2026-04-21,2809,21,0.0075,44.94,16.00
+mobile_overlay,2026-04-22,4458,12,0.0027,71.33,16.00
+mobile_overlay,2026-04-23,1782,19,0.0107,28.51,16.00
+mobile_overlay,2026-04-24,3817,26,0.0068,61.07,16.00
+mobile_overlay,2026-04-25,3272,20,0.0061,52.35,16.00
+mobile_overlay,2026-04-26,3921,46,0.0117,62.74,16.00
+mobile_overlay,2026-04-27,3471,29,0.0084,55.54,16.00
+mobile_overlay,2026-04-28,3718,33,0.0089,59.49,16.00
+mobile_overlay,2026-04-29,1486,18,0.0121,23.78,16.00
+mobile_overlay,2026-04-30,1457,12,0.0082,23.31,16.00
+mobile_overlay,2026-05-01,4011,19,0.0047,64.18,16.00
+mobile_overlay,2026-05-02,2466,30,0.0122,39.46,16.00
+mobile_overlay,2026-05-03,1366,10,0.0073,21.86,16.00
+mobile_overlay,2026-05-04,4520,26,0.0058,72.32,16.00
+mobile_overlay,2026-05-05,4696,45,0.0096,75.14,16.00
+mobile_overlay,2026-05-06,3645,27,0.0074,58.32,16.00
+mobile_overlay,2026-05-07,2740,34,0.0124,43.84,16.00
+mobile_overlay,2026-05-08,1218,5,0.0041,19.49,16.00
+mobile_overlay,2026-05-09,3823,8,0.0021,61.17,16.00
+mobile_overlay,2026-05-10,2738,28,0.0102,43.81,16.00
+mobile_overlay,2026-05-11,3304,25,0.0076,52.86,16.00
+mobile_overlay,2026-05-12,2324,24,0.0103,37.18,16.00
+mobile_overlay,2026-05-13,4102,39,0.0095,65.63,16.00
+mobile_overlay,2026-05-14,1954,7,0.0036,31.26,16.00
+mobile_overlay,2026-05-15,1393,7,0.005,22.29,16.00
+mobile_overlay,2026-05-16,4969,29,0.0058,79.50,16.00
+mobile_overlay,2026-05-17,1228,13,0.0106,19.65,16.00
+mobile_overlay,2026-05-18,1464,14,0.0096,23.42,16.00
